@@ -26,53 +26,53 @@ Quer adicionar algo? Abre um PR!
 ## 🏷️ Tags
 
 As tags indicam quais AI coding assistants cada recurso suporta oficialmente.
-Só são adicionadas quando o suporte é confirmado.
+Só são adicionadas quando o suporte é confirmado. Veja [BADGES.md](BADGES.md) para referência completa.
 
 ### Assistants
 | Tag | Assistant |
 |-----|-----------|
-| `claude` | [Claude Code](https://claude.ai/code) — Anthropic |
-| `copilot` | [GitHub Copilot](https://github.com/features/copilot) — GitHub |
-| `cursor` | [Cursor](https://www.cursor.com/) |
-| `gemini` | [Gemini CLI](https://github.com/google-gemini/gemini-cli) — Google |
-| `codex` | [Codex CLI](https://github.com/openai/codex) — OpenAI |
-| `windsurf` | [Windsurf](https://windsurf.com/) — Codeium |
-| `opencode` | [OpenCode](https://opencode.ai/) |
+| ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) | [Claude Code](https://claude.ai/code) — Anthropic |
+| ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat) | [GitHub Copilot](https://github.com/features/copilot) — GitHub |
+| ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) | [Cursor](https://www.cursor.com/) |
+| ![gemini](https://img.shields.io/badge/gemini-4285F4?style=flat) | [Gemini CLI](https://github.com/google-gemini/gemini-cli) — Google |
+| ![codex](https://img.shields.io/badge/codex-10A37F?style=flat) | [Codex CLI](https://github.com/openai/codex) — OpenAI |
+| ![windsurf](https://img.shields.io/badge/windsurf-00BFA5?style=flat) | [Windsurf](https://windsurf.com/) — Codeium |
+| ![opencode](https://img.shields.io/badge/opencode-7C3AED?style=flat) | [OpenCode](https://opencode.ai/) |
 
 ### Preço
 | Tag | Significado |
 |-----|-------------|
-| `free` | Tem plano gratuito |
-| `paid` | Somente pago |
+| ![free](https://img.shields.io/badge/free-22C55E?style=flat) | Tem plano gratuito |
+| ![paid](https://img.shields.io/badge/paid-EF4444?style=flat) | Somente pago |
 
 ---
 
 ## 🧩 Skills
 
-- **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** `claude` `cursor` `copilot` `gemini` `codex`  
+- **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat) ![gemini](https://img.shields.io/badge/gemini-4285F4?style=flat) ![codex](https://img.shields.io/badge/codex-10A37F?style=flat)  
   > A maior coleção da comunidade com 1000+ skills de times oficiais e contribuidores
 
-- **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** `claude` `cursor` `codex` `gemini`  
+- **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![codex](https://img.shields.io/badge/codex-10A37F?style=flat) ![gemini](https://img.shields.io/badge/gemini-4285F4?style=flat)  
   > 1400+ skills instaláveis via CLI com bundles e workflows
 
-- **[travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)** `claude`  
+- **[travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat)  
   > Skills e recursos focados em workflows com Claude Code
 
-- **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** `claude`  
+- **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat)  
   > Skills e ferramentas para customizar workflows com Claude
 
-- **[skillsdirectory/awesome-ai-skills](https://github.com/skillsdirectory/awesome-ai-skills)** `claude` `cursor` `copilot` `windsurf`  
+- **[skillsdirectory/awesome-ai-skills](https://github.com/skillsdirectory/awesome-ai-skills)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat) ![windsurf](https://img.shields.io/badge/windsurf-00BFA5?style=flat)  
   > Skills, system prompts e agent rules curados pela comunidade
 
-- **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** `claude` `cursor` `copilot`  
+- **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat)  
   > Registry validado com análise estática no CI/CD — foco em segurança e qualidade
 
 ### Por Plataforma
 
-- **[new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills)** `claude` `copilot` `cursor` `gemini`  
+- **[new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat) ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![gemini](https://img.shields.io/badge/gemini-4285F4?style=flat)  
   > Skills para Android moderno: Kotlin, Jetpack Compose, KMP
 
-- **[vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)** `claude` `codex`  
+- **[vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![codex](https://img.shields.io/badge/codex-10A37F?style=flat)  
   > Skills oficiais da Vercel: React, Next.js, performance e caching
 
 - **[callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills)**  
@@ -81,36 +81,36 @@ Só são adicionadas quando o suporte é confirmado.
 - **[hamen/material-3-skill](https://github.com/hamen/material-3-skill)**  
   > Skill de referência para Material Design 3
 
-- **[jdubois/dr-jskill](https://github.com/jdubois/dr-jskill)** `claude` `copilot`  
+- **[jdubois/dr-jskill](https://github.com/jdubois/dr-jskill)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat)  
   > Skill para criação de aplicações Spring Boot
 
 ---
 
 ## 📋 Instructions & Rules
 
-- **[PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)** `cursor`  
+- **[PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)** ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white)  
   > Maior coleção de arquivos `.cursorrules` organizados por framework e linguagem
 
-- **[tugkanboz/awesome-cursorrules](https://github.com/tugkanboz/awesome-cursorrules)** `cursor`  
+- **[tugkanboz/awesome-cursorrules](https://github.com/tugkanboz/awesome-cursorrules)** ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white)  
   > Rules modernas no formato MDC do Cursor
 
-- **[EdenFork/awesome-copilot-instructions](https://github.com/EdenFork/awesome-copilot-instructions)** `copilot`  
+- **[EdenFork/awesome-copilot-instructions](https://github.com/EdenFork/awesome-copilot-instructions)** ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat)  
   > Lista curada de arquivos `copilot-instructions.md`
 
-- **[instructa/ai-prompts](https://github.com/instructa/ai-prompts)** `cursor` `copilot` `windsurf`  
+- **[instructa/ai-prompts](https://github.com/instructa/ai-prompts)** ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat) ![windsurf](https://img.shields.io/badge/windsurf-00BFA5?style=flat)  
   > Prompts e rules prontos para Cursor, Cline, Windsurf e GitHub Copilot
 
 ---
 
 ## 🤖 Agents
 
-- **[github/awesome-copilot](https://github.com/github/awesome-copilot)** `copilot`  
+- **[github/awesome-copilot](https://github.com/github/awesome-copilot)** ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat)  
   > Repo oficial do GitHub — instructions, agents, skills e configs contribuídos pela comunidade
 
-- **[Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents)** `copilot`  
+- **[Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents)** ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat)  
   > Instructions, prompts, skills, MCPs e arquivos agent `.md` para Copilot
 
-- **[jaktestowac/awesome-copilot-for-testers](https://github.com/jaktestowac/awesome-copilot-for-testers)** `copilot`  
+- **[jaktestowac/awesome-copilot-for-testers](https://github.com/jaktestowac/awesome-copilot-for-testers)** ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat)  
   > Instructions e prompts focados em automação de testes
 
 ---
@@ -126,7 +126,7 @@ Só são adicionadas quando o suporte é confirmado.
 - **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)**  
   > Prompts completos de 25+ ferramentas: Replit, Windsurf, Warp, Xcode AI e mais
 
-- **[Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts)** `claude`  
+- **[Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat)  
   > Todas as partes do system prompt do Claude Code, atualizado por versão
 
 ---
@@ -154,7 +154,7 @@ Só são adicionadas quando o suporte é confirmado.
 - **[Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)**  
   > SDD para AI coding assistants — define a spec, a IA implementa
 
-- **[kiro.dev](https://kiro.dev/)** `free` `paid`  
+- **[kiro.dev](https://kiro.dev/)** ![free](https://img.shields.io/badge/free-22C55E?style=flat) ![paid](https://img.shields.io/badge/paid-EF4444?style=flat)  
   > IDE agentic da AWS com SDD nativo — requisitos, design e tarefas antes de qualquer código
 
 - **[tessl.io](https://tessl.io/)**  
@@ -181,25 +181,25 @@ Só são adicionadas quando o suporte é confirmado.
 
 ## 💻 AI Coding Assistants
 
-- **[Claude Code](https://claude.ai/code)** `claude` `free` `paid`  
+- **[Claude Code](https://claude.ai/code)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![free](https://img.shields.io/badge/free-22C55E?style=flat) ![paid](https://img.shields.io/badge/paid-EF4444?style=flat)  
   > CLI oficial da Anthropic para Claude — desenvolvimento agentic no terminal
 
-- **[opencode-ai/opencode](https://github.com/opencode-ai/opencode)** `opencode` `free`  
+- **[opencode-ai/opencode](https://github.com/opencode-ai/opencode)** ![opencode](https://img.shields.io/badge/opencode-7C3AED?style=flat) ![free](https://img.shields.io/badge/free-22C55E?style=flat)  
   > AI coding agent open-source para o terminal — não está preso a nenhum provider
 
 - **[awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)**  
   > Plugins, temas, agents e recursos curados para OpenCode
 
-- **[GitHub Copilot](https://github.com/features/copilot)** `copilot` `free` `paid`  
+- **[GitHub Copilot](https://github.com/features/copilot)** ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat) ![free](https://img.shields.io/badge/free-22C55E?style=flat) ![paid](https://img.shields.io/badge/paid-EF4444?style=flat)  
   > AI coding assistant integrado ao VS Code, JetBrains e outros
 
-- **[Cursor](https://www.cursor.com/)** `cursor` `free` `paid`  
+- **[Cursor](https://www.cursor.com/)** ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![free](https://img.shields.io/badge/free-22C55E?style=flat) ![paid](https://img.shields.io/badge/paid-EF4444?style=flat)  
   > Editor de código com IA — fork do VS Code com integração profunda de IA
 
-- **[Windsurf](https://windsurf.com/)** `windsurf` `free` `paid`  
+- **[Windsurf](https://windsurf.com/)** ![windsurf](https://img.shields.io/badge/windsurf-00BFA5?style=flat) ![free](https://img.shields.io/badge/free-22C55E?style=flat) ![paid](https://img.shields.io/badge/paid-EF4444?style=flat)  
   > IDE agentic da Codeium
 
-- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** `gemini` `free`  
+- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** ![gemini](https://img.shields.io/badge/gemini-4285F4?style=flat) ![free](https://img.shields.io/badge/free-22C55E?style=flat)  
   > AI agent open-source do Google para o terminal
 
 ---

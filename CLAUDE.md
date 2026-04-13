@@ -21,6 +21,8 @@ Do NOT add: AI frameworks, ML libraries, models, papers or general AI tools.
 
 Only add a tag when official support is **confirmed**. Do not guess.
 
+**Always use image badges from `BADGES.md` — never plain text tags.**
+
 ### Assistant Tags
 | Tag | Assistant |
 |-----|-----------|

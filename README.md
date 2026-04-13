@@ -78,7 +78,7 @@ Only added when official support is confirmed. See [BADGES.md](BADGES.md) for fu
 - **[callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills)**  
   > Agent-optimized skills for React Native
 
-- **[hamen/material-3-skill](https://github.com/hamen/material-3-skill)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat)  
+- **[hamen/material-3-skill](https://github.com/hamen/material-3-skill)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat)  
   > Reference skill for Material Design 3
 
 - **[jdubois/dr-jskill](https://github.com/jdubois/dr-jskill)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat)  

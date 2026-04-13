@@ -78,7 +78,7 @@ Só são adicionadas quando o suporte é confirmado. Veja [BADGES.md](BADGES.md)
 - **[callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills)**  
   > Skills para React Native otimizadas para AI coding assistants
 
-- **[hamen/material-3-skill](https://github.com/hamen/material-3-skill)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat)  
+- **[hamen/material-3-skill](https://github.com/hamen/material-3-skill)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat)  
   > Skill de referência para Material Design 3
 
 - **[jdubois/dr-jskill](https://github.com/jdubois/dr-jskill)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat)  

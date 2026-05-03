@@ -29,6 +29,21 @@ The study compares:
 - Caveman disabled vs Caveman full mode
 - Caveman full vs ultra mode
 
+## Methodology Notes
+
+This is a practical usage study based on real Claude Code sessions, not a scientific benchmark.
+
+For each scenario, I ran a sequence of prompts and checked context usage with `/context` across the session.
+
+Two values were observed:
+
+- **Total context**: the full context reported by Claude Code.
+- **Messages**: the conversation/message portion of the context.
+
+One important detail: some sessions did not start from a completely empty message context. In Claude Code, enabling Caveman and loading its plugin/skills can already add initial overhead to the session. In several runs, the initial `messages` usage was already around **2.5k–2.6k tokens** before the first real test prompt.
+
+Because of that, this study should be read as a practical usage comparison, not as a perfectly isolated benchmark. The goal was to observe how context grows in real Claude Code sessions, including the overhead introduced by plugins, skills, commands, and setup steps.
+
 ---
 
 ## 1. Code Questions: No Caveman vs Caveman Full
@@ -129,12 +144,15 @@ Ultra mode also did not reduce token usage in random questions. The final contex
 - English helped in code tasks, but not in random questions.
 - Ultra mode was not cheaper in these tests.
 - In Claude Code, most cost seems to come from context, tool usage, file reads, and repository analysis, not only from response length.
+- The initial overhead from plugins, skills, and setup commands is part of the real-world cost of using this kind of tool.
 
 ## Final Takeaway
 
 Caveman is useful to change the response style, but it is not a guaranteed token saver.
 
 For code tasks, especially inside Claude Code, reducing verbosity is not the same as reducing the real cost of the session.
+
+The point of this study was not to measure Caveman in a lab-like environment, but to observe its impact in real Claude Code sessions.
 
 ## Video
 

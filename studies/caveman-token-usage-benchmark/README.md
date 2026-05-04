@@ -29,11 +29,67 @@ The study compares:
 - Caveman disabled vs Caveman full mode
 - Caveman full vs ultra mode
 
+## Prompt Sets
+
+The tests used two prompt groups: random questions and code questions.
+
+### Random Questions
+
+These prompts simulate general questions that any user could ask.
+
+Portuguese:
+
+- Como funciona o sono? Por que precisamos dormir?
+- Como funciona a memória humana? Por que esquecemos coisas?
+- Por que o céu é azul durante o dia e laranja/vermelho ao pôr do sol?
+- Como funciona uma vacina? Por que ela protege contra doenças?
+- Por que sentimos fome? Como o corpo sabe que precisa comer?
+- Como funciona a gravidade? Por que objetos caem?
+
+English:
+
+- How does sleep work? Why do we need to sleep?
+- How does human memory work? Why do we forget things?
+- Why is the sky blue during the day and orange/red at sunset?
+- How does a vaccine work? Why does it protect against diseases?
+- Why do we feel hungry? How does the body know it needs food?
+- How does gravity work? Why do objects fall?
+
+### Code Questions
+
+These prompts simulate repository analysis and code review inside a real project.
+
+Portuguese:
+
+- Por que o app pode estar lento ao carregar a lista de streams?
+- Como garantir que o estado da busca não vaza entre diferentes ciclos de vida da Activity?
+- Por que a busca pode estar retornando resultados desatualizados após o usuário digitar rápido?
+- Faça um code review da classe `@feature-list-streams/src/main/java/com/codandotv/streamplayerapp/feature_list_streams/list/presentation/screens/ListStreamsScreen.kt`
+
+English:
+
+- Why can the app be slow when loading the stream list?
+- How can I make sure the search state does not leak across different Activity lifecycle cycles?
+- Why can the search return outdated results after the user types quickly?
+- Do a code review of the class `@feature-list-streams/src/main/java/com/codandotv/streamplayerapp/feature_list_streams/list/presentation/screens/ListStreamsScreen.kt`
+
 ## Methodology Notes
 
 This is a practical usage study based on real Claude Code sessions, not a scientific benchmark.
 
-For each scenario, I ran a sequence of prompts and checked context usage with `/context` across the session.
+For each scenario, the intended flow was:
+
+```text
+1. Start a new Claude Code session
+2. Run /context to capture the initial state
+3. Send prompt 1
+4. Run /context
+5. Send prompt 2
+6. Run /context
+7. Repeat until the end of the prompt set
+```
+
+In other words, the test tried to measure how the context changed after each prompt, not only the final result.
 
 Two values were observed:
 

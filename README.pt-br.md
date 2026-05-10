@@ -184,6 +184,11 @@ Só são adicionadas quando o suporte é confirmado. Veja [BADGES.md](BADGES.md)
 - **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat) ![claude](https://img.shields.io/badge/claude-D97706?style=flat)  
   > Plugin para Claude Code que comprime as respostas da IA para reduzir uso de tokens e tamanho do contexto
 
+### Observabilidade
+
+- **[luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat) ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![codex](https://img.shields.io/badge/codex-10A37F?style=flat) ![gemini](https://img.shields.io/badge/gemini-4285F4?style=flat) ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![opencode](https://img.shields.io/badge/opencode-7C3AED?style=flat)  
+  > TUI local e gerador de relatórios para revisar sessões de AI coding agents por custo, tokens, latência, falhas de ferramentas e diagnóstico de execuções lentas
+
 ---
 
 ## 💻 AI Coding Assistants

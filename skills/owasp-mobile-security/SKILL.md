@@ -1,6 +1,6 @@
 ---
 name: owasp-mobile-security
-description: Security analysis and testing for Android and iOS apps based on OWASP Mobile Application Security (MAS). Use when Gemini CLI needs to verify security requirements (MASVS), perform security tests (MASTG), or understand mobile vulnerabilities (MASWE).
+description: Security analysis and testing for Android and iOS apps based on OWASP Mobile Application Security (MAS). Use when verifying security requirements (MASVS), performing security tests (MASTG), or understanding mobile vulnerabilities (MASWE).
 ---
 
 # OWASP Mobile Security Skill

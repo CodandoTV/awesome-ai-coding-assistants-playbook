@@ -56,6 +56,9 @@ Only added when official support is confirmed. See [BADGES.md](BADGES.md) for fu
 - **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![codex](https://img.shields.io/badge/codex-10A37F?style=flat) ![gemini](https://img.shields.io/badge/gemini-4285F4?style=flat)  
   > 1400+ installable skills via CLI with bundles and workflows
 
+- **[mturac/everything-openai-codex](https://github.com/mturac/everything-openai-codex)** ![codex](https://img.shields.io/badge/codex-10A37F?style=flat) ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)
+  > Open-source Codex workflow collection with install profiles, repo conventions, validation checks, and documentation
+
 - **[travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat)  
   > Curated skills and resources focused on Claude Code workflows
 

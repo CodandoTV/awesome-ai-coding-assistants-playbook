@@ -67,6 +67,8 @@ Only added when official support is confirmed. See [BADGES.md](BADGES.md) for fu
 
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat)  
   > Validated registry with static analysis in CI/CD — security and quality focused
+- **[CodandoTV/awesome-ai-coding-assistants/skills/owasp-mobile-security](https://github.com/CodandoTV/awesome-ai-coding-assistants/skills/owasp-mobile-security/)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat) ![gemini](https://img.shields.io/badge/gemini-4285F4?style=flat) ![codex](https://img.shields.io/badge/codex-10A37F?style=flat)  
+  > Essential resources for OWASP Mobile Security Project: best practices, testing methodologies, and security standards for mobile apps.
 
 ### By Platform
 

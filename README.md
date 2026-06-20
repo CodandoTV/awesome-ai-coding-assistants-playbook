@@ -189,6 +189,9 @@ Only added when official support is confirmed. See [BADGES.md](BADGES.md) for fu
 - **[luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat) ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![codex](https://img.shields.io/badge/codex-10A37F?style=flat) ![gemini](https://img.shields.io/badge/gemini-4285F4?style=flat) ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![opencode](https://img.shields.io/badge/opencode-7C3AED?style=flat)  
   > Local TUI and report generator for reviewing AI coding agent sessions across cost, tokens, latency, tool failures and slow-run diagnostics
 
+- **[Necmttn/ax](https://github.com/Necmttn/ax)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat) ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![codex](https://img.shields.io/badge/codex-10A37F?style=flat) ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![opencode](https://img.shields.io/badge/opencode-7C3AED?style=flat)
+  > Local telemetry and recall graph for AI coding agent sessions
+
 ---
 
 ## 💻 AI Coding Assistants

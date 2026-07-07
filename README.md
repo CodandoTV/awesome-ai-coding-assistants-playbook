@@ -184,6 +184,9 @@ Only added when official support is confirmed. See [BADGES.md](BADGES.md) for fu
 - **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat) ![claude](https://img.shields.io/badge/claude-D97706?style=flat)  
   > Claude Code plugin that compresses AI responses to reduce token usage and context size
 
+- **[TerminallyLazy/Tree-Ring-Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)
+  > Local-first memory lifecycle CLI and SKILL.md guidance for agent recall, forgetting, audit and consolidation
+
 ### Observability
 
 - **[luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat) ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![codex](https://img.shields.io/badge/codex-10A37F?style=flat) ![gemini](https://img.shields.io/badge/gemini-4285F4?style=flat) ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![opencode](https://img.shields.io/badge/opencode-7C3AED?style=flat)  

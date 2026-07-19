@@ -50,6 +50,9 @@ Only added when official support is confirmed. See [BADGES.md](BADGES.md) for fu
 
 ## 🧩 Skills
 
+- **[lleqsnoom/xskills](https://github.com/lleqsnoom/xskills)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat) ![gemini](https://img.shields.io/badge/gemini-4285F4?style=flat) ![codex](https://img.shields.io/badge/codex-10A37F?style=flat)  
+  > Agent Skills pack explicitly tuned for smaller local and self-hosted models (under 40B). Every skill fits in a 4K context window. Zero-dependency npm package with 15+ production-ready skills following agentskills.io standard.
+
 - **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat) ![gemini](https://img.shields.io/badge/gemini-4285F4?style=flat) ![codex](https://img.shields.io/badge/codex-10A37F?style=flat)  
   > The largest community-driven collection with 1000+ skills from official teams and contributors
 

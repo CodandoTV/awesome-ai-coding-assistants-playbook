@@ -175,6 +175,9 @@ Only added when official support is confirmed. See [BADGES.md](BADGES.md) for fu
 
 ### Skills & Config
 
+- **[AIPM](https://www.aipm-registry.com/)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat) ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![codex](https://img.shields.io/badge/codex-10A37F?style=flat) ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white)  
+  > Registry and CLI for publishing, versioning and installing reusable AI skills across coding assistants
+
 - **[gotalab/skillport](https://github.com/gotalab/skillport)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)  
   > CLI + MCP to manage and serve skills across any AI agent
 

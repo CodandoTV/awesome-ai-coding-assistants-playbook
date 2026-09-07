@@ -214,6 +214,9 @@ Only added when official support is confirmed. See [BADGES.md](BADGES.md) for fu
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** ![gemini](https://img.shields.io/badge/gemini-4285F4?style=flat) ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)  
   > Google's open-source AI agent for the terminal
 
+- **[Sillage](https://github.com/MarlBurroW/sillage)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![codex](https://img.shields.io/badge/codex-10A37F?style=flat) ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)  
+  > Self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine (the harness, without a terminal); persistent sessions, full-text search, an IDE panel and an installable PWA. Single Docker container.
+
 ---
 
 ## 📺 Content

@@ -104,6 +104,9 @@ Only added when official support is confirmed. See [BADGES.md](BADGES.md) for fu
 - **[instructa/ai-prompts](https://github.com/instructa/ai-prompts)** ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat) ![windsurf](https://img.shields.io/badge/windsurf-00BFA5?style=flat)  
   > Ready-to-use prompts and rules for Cursor, Cline, Windsurf and GitHub Copilot
 
+- **[Loadout](https://loadout-blush.vercel.app)** ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat) ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![codex](https://img.shields.io/badge/codex-10A37F?style=flat) ![windsurf](https://img.shields.io/badge/windsurf-00BFA5?style=flat) ![free](https://img.shields.io/badge/free-22C55E?style=flat)  
+  > Free + Pro version-pinned AI coding rule packs (Cursor, Copilot, Continue, Aider, Windsurf, Codex) so agents follow project conventions — Maker: Anthony Pan
+
 ---
 
 ## 🤖 Agents

@@ -104,6 +104,9 @@ Only added when official support is confirmed. See [BADGES.md](BADGES.md) for fu
 - **[instructa/ai-prompts](https://github.com/instructa/ai-prompts)** ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat) ![windsurf](https://img.shields.io/badge/windsurf-00BFA5?style=flat)  
   > Ready-to-use prompts and rules for Cursor, Cline, Windsurf and GitHub Copilot
 
+- **[theodorecreatesco/vibe-coding-rules-starter](https://github.com/theodorecreatesco/vibe-coding-rules-starter)** ![cursor](https://img.shields.io/badge/cursor-1A1A1A?style=flat&logoColor=white) ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![copilot](https://img.shields.io/badge/copilot-0078D4?style=flat) ![codex](https://img.shields.io/badge/codex-10A37F?style=flat) ![windsurf](https://img.shields.io/badge/windsurf-00BFA5?style=flat) ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)
+  > Free MIT AGENTS.md, CLAUDE.md and always-on Cursor security rule so agents plan first, stay in scope, run real tests and keep secrets out of the repo (README also links an optional paid full kit).
+
 ---
 
 ## 🤖 Agents
